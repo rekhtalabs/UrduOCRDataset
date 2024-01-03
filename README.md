@@ -3,7 +3,7 @@ Aim of this repository is to create an annotated dataset which can be used for t
 The final dataset will be freely available to use and uploaded in this repo.
 
 
-To minimise the manual effort needed for such a task, we are leveraging the texts available on Rekhta, where this manual effort has already been put in. 
+To minimise the manual effort needed for such a task, we are leveraging the texts available on Rekhta, where manual effort of proofreading has already been put in. 
 
 The page number and the book (pdf) containing these texts is also available on Rekhta.
 
