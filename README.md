@@ -14,6 +14,6 @@ The pdfs/images are in sources folder. If the size grows large we will replace t
 The scripts needed are in the code folder.
 
 
-This initiative is thanks to the collaboration of [OpenITI](https://openiti.org) team with [Rekhta](https://www.rekhta.org).
+This initiative is thanks to the collaboration of [OpenITI](https://openiti.org) and [Rekhta](https://www.rekhta.org).
 
 
