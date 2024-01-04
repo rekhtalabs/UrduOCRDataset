@@ -1,0 +1,3 @@
+ipython
+pip-chill
+pytesseract
