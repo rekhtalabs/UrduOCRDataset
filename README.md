@@ -7,7 +7,9 @@ To minimise the manual effort needed for such a task, we are leveraging the text
 
 The page number and the book (pdf) containing these texts is also available on Rekhta.
 
-Above texts are in the texts folder, organised by poet/author name.
+Above texts are in the texts folder. The mapping of texts to source books in in a json file in sources folder.
+
+The extracted image of the pages from the specific texts are to be put in the images folder with (same filename as the text file).
 
 The pdfs/images are in sources folder. If the size grows large we will replace them by a drive link.
 
