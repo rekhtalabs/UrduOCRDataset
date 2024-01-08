@@ -1,0 +1,5 @@
+we need scropts to do the following automatically
+
+1. approximate ocr: bash script to convert pdf pages to images, and run tesseract-ocr. save the texts.
+2. python script to match the ghazal (exact text) to the approximate text from above. Sometimes the ghazal might spill over pages. Sometimes only few of the couplets will match for a ghazal. save the mapped page numbers
+3. python script to split the above identified images (pages) into segments and map the verses to the segments, and save the segments and the corresponding exact texts to the dataset folder
